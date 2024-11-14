@@ -1,0 +1,20 @@
+{
+    "short_name": "テスト",
+    "name": "テストサイト",
+    "icons": [
+        {
+            "src": "https://hontani-hajime.github.io/test/IMG_0698.jpeg",
+            "sizes": "192x192",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "https://hontani-hajime.github.io/test/IMG_0698.jpeg",
+            "sizes": "512x512",
+            "type": "image/jpeg"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50"
+}
